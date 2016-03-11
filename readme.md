@@ -16,7 +16,9 @@ Create new git branch if necessary
 8. Push to staging server
 9. Review on staging server
 10. Promote to master branch of Production Server
+
 If any problems arise, loop back to step 2
+
 ##Setting from git to server
 For whatever reason, the server's git was set up wrong. So rather than 
 fixing the problem, we're goin to work around it. Once finalized, any
